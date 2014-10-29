@@ -7,7 +7,6 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("Hello git");
-	printf("this reall need commit");
 	getchar();
 	return 0;
 }
