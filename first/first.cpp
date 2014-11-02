@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("Hello git");
+	printf("I said No");
 	getchar();
 	return 0;
 }
