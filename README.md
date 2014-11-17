@@ -14,3 +14,5 @@ Release Check complete
 bug of func1 fixed
 
 Terminal Change
+
+This line is from fansongy's fork.
